@@ -18,6 +18,19 @@ I am **Haroon** — A passionate full-stack developer from UAE building **AI-pow
 
 ---
 
+---
+
+## 🚀 NOW LIVE: Zooka-AI Platform
+
+**One AI workspace, every frontier model.** GPT-5 mini • Gemini 3 Pro • Grok 4.1 • Claude 4.5 — compare answers side by side, no tab juggling.
+
+🌐 **Try it free (no signup):** [zooka-ai.com](https://zooka-ai.com)
+💎 Pro $19/mo • Business $49/mo
+
+Built indie in public from the UAE 🇦🇪
+
+---
+
 ## 💰 Support My Work
 
 Your sponsorship helps me build more amazing open source tools!
