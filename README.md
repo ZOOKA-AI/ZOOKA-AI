@@ -1,25 +1,55 @@
-# ZOOKA AI
+<h1 align="center">ZOOKA AI</h1>
 
-**AI business agent for service companies in the UAE.**
+<p align="center"><strong>تقنية بإيمان، تقدّم بأخلاق</strong><br/>
+<em>Innovate • Automate • Grow</em></p>
 
-[![Website](https://img.shields.io/badge/Website-zooka--ai.com-blue)](https://zooka-ai.com)
-[![Studio](https://img.shields.io/badge/Studio-Open-green)](https://zooka-ai.com/studio)
+<p align="center">
+  <a href="https://zooka-ai.com"><img src="https://img.shields.io/badge/Website-zooka--ai.com-2E86AB?style=for-the-badge" alt="Website"></a>
+  <a href="https://zooka-ai.com/studio"><img src="https://img.shields.io/badge/Studio-Open-A23B72?style=for-the-badge" alt="Studio"></a>
+  <a href="https://x.com/zooka_ai"><img src="https://img.shields.io/badge/X-@zooka__ai-0B1220?style=for-the-badge" alt="X"></a>
+  <a href="mailto:info@zooka-ai.com"><img src="https://img.shields.io/badge/Email-info@zooka--ai.com-10D4FF?style=for-the-badge" alt="Email"></a>
+</p>
+
+<p align="center"><sub>Brand palette: <code>#2E86AB</code> · <code>A23B72</code> · <code>#10D4FF</code> · <code>#0B1220</code> · <code>#F8F9FA</code></sub></p>
+
+---
 
 ## What we build
-- **Zooka AI Chat** — intelligent agent with tools, integrations, and billing.
+
+- **Zooka AI Chat** — an AI agent for service businesses, with tools, integrations and billing.
 - **Zooka Studio** — templates, local projects, media, and real integrations (GitHub, Vercel, Google Drive, n8n).
-- **Zekr AI** — Quran tafseer assistant.
+- **Zekr AI** — a Quran tafseer assistant with offline reading.
+
+Everything listed here is what actually runs today. Anything not shipped stays out of this page.
 
 ## Key repositories
+
 | Repo | Description |
 |------|-------------|
 | [chatbot](https://github.com/ZOOKA-AI/chatbot) | Main product (live at zooka-ai.com) |
 | [studio](https://github.com/ZOOKA-AI/studio) | Multimodal Studio tools |
 | [zekr-ai-quran-tafseer](https://github.com/ZOOKA-AI/zekr-ai-quran-tafseer) | Quran AI assistant |
 
-## Links
-- Website: https://zooka-ai.com
-- Studio: https://zooka-ai.com/studio
-- Pricing: https://zooka-ai.com/pricing
+<div dir="rtl">
 
-Building AI-powered products & tools. Open to collaboration.
+## بالعربية
+
+**ZOOKA AI** منصّة رقمية تبني أدوات تعمل بالذكاء الاصطناعي والأتمتة، هدفها تبسيط العمل اليومي للمبدعين وأصحاب الأعمال.
+
+- **Zooka AI Chat** — وكيل ذكي لأصحاب الخدمات، مع أدوات وتكاملات وفواتير.
+- **Zooka Studio** — قوالب ومشاريع محلية ووسائط وتكاملات حقيقية (GitHub، Vercel، Google Drive، n8n).
+- **Zekr AI** — مساعد لتفسير القرآن مع قراءة تعمل دون اتصال.
+
+لا نعرض هنا إلا ما يعمل فعلًا، وما لم يُنجَز لا يُذكر.
+
+</div>
+
+## Links
+
+- Website — https://zooka-ai.com
+- Studio — https://zooka-ai.com/studio
+- Pricing — https://zooka-ai.com/pricing
+- X — https://x.com/zooka_ai
+- Email — info@zooka-ai.com
+
+<p align="center"><sub>© 2024–2026 ZOOKA AI</sub></p>
