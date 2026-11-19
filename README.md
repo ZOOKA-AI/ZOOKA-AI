@@ -8,6 +8,10 @@
   <a href="https://zooka-ai.com/studio"><img src="https://img.shields.io/badge/Studio-Open-A23B72?style=for-the-badge" alt="Studio"></a>
   <a href="https://x.com/zooka_ai"><img src="https://img.shields.io/badge/X-@zooka__ai-0B1220?style=for-the-badge" alt="X"></a>
   <a href="mailto:info@zooka-ai.com"><img src="https://img.shields.io/badge/Email-info@zooka--ai.com-10D4FF?style=for-the-badge" alt="Email"></a>
+  <a href="https://t.me/zooka_ai_official"><img src="https://img.shields.io/badge/Telegram-@zooka__ai__official-2E86AB?style=for-the-badge" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@zooka_ai_official"><img src="https://img.shields.io/badge/YouTube-@zooka__ai__official-A23B72?style=for-the-badge" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/company/zooka-ai/"><img src="https://img.shields.io/badge/LinkedIn-ZOOKA--AI-0B1220?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://discord.gg/7ynqJxMZfQ"><img src="https://img.shields.io/badge/Discord-Join-10D4FF?style=for-the-badge" alt="Discord"></a>
 </p>
 
 <p align="center"><sub>Brand palette: <code>#2E86AB</code> · <code>A23B72</code> · <code>#10D4FF</code> · <code>#0B1220</code> · <code>#F8F9FA</code></sub></p>
@@ -50,6 +54,10 @@ Everything listed here is what actually runs today. Anything not shipped stays o
 - Studio — https://zooka-ai.com/studio
 - Pricing — https://zooka-ai.com/pricing
 - X — https://x.com/zooka_ai
+- Telegram — https://t.me/zooka_ai_official
+- YouTube — https://www.youtube.com/@zooka_ai_official
+- LinkedIn — https://www.linkedin.com/company/zooka-ai/
+- Discord — https://discord.gg/7ynqJxMZfQ
 - Email — info@zooka-ai.com
 
 <p align="center"><sub>© 2024–2026 ZOOKA AI</sub></p>
